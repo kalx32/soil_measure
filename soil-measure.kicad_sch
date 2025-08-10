@@ -8350,7 +8350,7 @@
 		)
 		(uuid "1b10e848-7da2-416f-8353-987e60d1b303")
 	)
-	(label "MCU_DM"
+	(label "MCU_DP"
 		(at 50.8 165.1 0)
 		(effects
 			(font
@@ -8690,7 +8690,7 @@
 		)
 		(uuid "836cfda7-6316-4a35-b597-6b8dd654a327")
 	)
-	(label "MCU_DP"
+	(label "MCU_DN"
 		(at 50.8 160.02 0)
 		(effects
 			(font
@@ -8700,7 +8700,7 @@
 		)
 		(uuid "88b29d08-6c51-428f-a9db-6e61da33088c")
 	)
-	(label "MCU_DM"
+	(label "MCU_DN"
 		(at 209.55 67.31 0)
 		(effects
 			(font
